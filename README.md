@@ -21,3 +21,12 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 - **Auth:** JWT-based auth
 - **Testing:** Pytest, Vitest/RTL
 - **DevOps:** Docker, GitHub Actions
+
+
+## Team Roles
+
+- **Backend Developer**: Responsible for building and maintaining the server-side logic, APIs, and integration with the database.
+- **Frontend Developer**: Designs and implements the user interface and user experience of the application.
+- **Database Administrator (DBA)**: Manages the database, ensures data integrity, performance, and security.
+- **Project Manager**: Oversees the project, manages timelines, and coordinates between team members.
+- **QA Engineer**: Tests the application to ensure quality, identifies bugs, and verifies fixes.
