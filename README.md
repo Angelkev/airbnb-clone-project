@@ -104,3 +104,18 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 
 - **Data Validation & Sanitization**  
   Checks and cleans incoming data to preve
+
+
+## CI/CD Pipeline
+
+Continuous Integration (CI) and Continuous Deployment (CD) are practices that automate testing, building, and deploying the application. CI/CD ensures that new code changes are automatically tested and deployed, reducing bugs and improving overall development efficiency.
+
+**Key Benefits for this Project:**
+- **Automated Testing:** Every code change is tested automatically to catch errors early.  
+- **Consistent Deployments:** Ensures the application is deployed reliably across environments.  
+- **Faster Iterations:** Reduces manual steps, allowing faster delivery of new features and bug fixes.
+
+**Tools Used:**
+- **GitHub Actions:** Automates workflows for testing, building, and deploying the application.  
+- **Docker & Docker Compose:** Containerizes the application for consistent deployment in any environment.  
+- **Optional CI/CD Tools:** Tools like Jenkins or GitLab CI could also be used for larger workflows.
