@@ -89,3 +89,18 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 
 - **Search & Filtering**  
   Users can search listings by location, dates, and number of guests. Provides filtering options to refine search results.
+
+
+## API Security
+
+- **Authentication**  
+  Ensures that only registered users can access protected endpoints. Protects user accounts and personal information from unauthorized access.
+
+- **Authorization**  
+  Controls what each user is allowed to do based on their role (e.g., admin, property owner, guest). Prevents users from performing actions they shouldn’t have access to.
+
+- **Rate Limiting**  
+  Limits the number of requests a user or IP can make in a given time frame. Protects the server from abuse, denial-of-service attacks, and ensures fair usage.
+
+- **Data Validation & Sanitization**  
+  Checks and cleans incoming data to preve
