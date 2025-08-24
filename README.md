@@ -45,3 +45,26 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 - **Vitest / React Testing Library**: Testing tools for frontend components and interactions.
 - **Prettier & ESLint**: Code formatting and linting tools to maintain consistent code quality.
 - **GitHub Actions**: CI/CD tool to automate test
+
+
+## Database Design
+
+### Key Entities and Fields
+
+- **Users**
+  - `id`: Unique identifier for each user
+  - `name`: Full name of the user
+  - `email`: Email address (used for login)
+  - `password_hash`: Hashed password for authentication
+  - `created_at`: Account creation timestamp
+
+- **Properties**
+  - `id`: Unique identifier for each property
+  - `owner_id`: References the user who owns the property
+  - `title`: Name/title of the property
+  - `description`: Detailed description
+  - `price_per_night`: Cost per night of stay
+
+- **Bookings**
+  - `id`: Unique identifier for each booking
+  - `user_id`: Ref_
