@@ -68,3 +68,24 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 - **Bookings**
   - `id`: Unique identifier for each booking
   - `user_id`: Ref_
+
+
+## Feature Breakdown
+
+- **User Management**  
+  Allows users to create accounts, log in, and manage their profile information. Includes authentication, authorization, and password security.
+
+- **Property Management**  
+  Enables property owners to add, edit, and delete listings. Owners can manage availability, pricing, and property details.
+
+- **Booking System**  
+  Lets users search for properties, make bookings, and manage reservations. Handles conflicts, availability, and booking statuses.
+
+- **Review System**  
+  Users can leave ratings and feedback on properties they have stayed in. Supports transparency and helps future users make informed decisions.
+
+- **Payment Handling**  
+  Integrates secure payment processing for completed bookings. Tracks payment status and ensures proper accounting.
+
+- **Search & Filtering**  
+  Users can search listings by location, dates, and number of guests. Provides filtering options to refine search results.
