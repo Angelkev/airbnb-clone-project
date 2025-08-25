@@ -31,6 +31,32 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 - **Project Manager**: Oversees the project, manages timelines, and coordinates between team members.
 - **QA Engineer**: Tests the application to ensure quality, identifies bugs, and verifies fixes.
 
+## Project Roles and Responsibilities
+
+- **Project Manager**  
+  Oversees the project timeline, coordinates team members, manages resources, and ensures milestones are met. Keeps the team aligned with project goals.
+
+- **Frontend Developers**  
+  Design and implement the user interface and user experience. Responsible for building responsive pages, integrating with backend APIs, and ensuring smooth interactions.
+
+- **Backend Developers**  
+  Develop and maintain server-side logic, APIs, and database integration. Ensure performance, scalability, and security of backend services.
+
+- **Designers (UI/UX)**  
+  Plan and create visual designs, wireframes, and prototypes. Focus on user-friendly interfaces and enhancing usability throughout the application.
+
+- **QA/Testers**  
+  Test application features for bugs, usability issues, and performance. Ensure the application meets quality standards before deployment.
+
+- **DevOps Engineers**  
+  Handle deployment pipelines, continuous integration/continuous deployment (CI/CD), and cloud infrastructure. Ensure smooth deployment and maintain system reliability.
+
+- **Product Owner**  
+  Defines project requirements, prioritizes features, and ensures the development aligns with business goals. Acts as a bridge between stakeholders and the development team.
+
+- **Scrum Master**  
+  Facilitates Agile ceremonies, removes blockers for the team, and ensures the development process follows Scrum methodology. Promotes productivity and collaboration.
+
 
 ## Technology Stack
 
