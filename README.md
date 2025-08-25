@@ -97,6 +97,27 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 ### Importance of User-Friendly Design
 A user-friendly design is crucial in a booking system because it improves usability, reduces errors, and increases customer satisfaction. Clear navigation, simple forms, and responsive layouts ensure that users can search, book, and manage reservations effortlessly, which leads to higher engagement and conversions.
 
+## UI Component Patterns
+
+For the AirBnB Clone project, the following UI components will be created to maintain a consistent and reusable design system:
+
+- **Navbar**  
+  A top navigation bar that includes logo, search bar, user profile menu, and navigation links. Ensures easy access to all primary pages.
+
+- **Property Card**  
+  Displays brief information about a property, including image, title, location, price, and rating. Can be reused in property listings and search results.
+
+- **Footer**  
+  A bottom section containing site links, contact information, social media icons, and copyright info. Maintains consistency across all pages.
+
+- **Search Bar**  
+  Allows users to input search queries, filter by dates, location, and guests. Can be reused across multiple pages where search functionality is needed.
+
+- **Booking Summary Card**  
+  Displays selected property details, pricing, and booking information in a concise format during checkout.
+
+These components will be designed to be modular, reusable, and responsive to support a seamless user experience.
+
 
 ## Database Design
 
