@@ -46,6 +46,31 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 - **Prettier & ESLint**: Code formatting and linting tools to maintain consistent code quality.
 - **GitHub Actions**: CI/CD tool to automate test
 
+## UI/UX Design Planning
+
+### Design Goals
+- Create an intuitive and responsive interface for both desktop and mobile users.
+- Make navigation simple and consistent across all pages.
+- Highlight key actions like searching, booking, and reviewing properties.
+- Ensure accessibility and readability for all users.
+
+### Key Features
+- Search and filter properties easily by location, date, and guest count.
+- Display property details including photos, description, amenities, and pricing.
+- Enable smooth booking workflow with a simple checkout process.
+- Allow users to view their bookings and leave reviews effortlessly.
+
+### Primary Pages
+
+| Page Name                | Description                                                                 |
+|---------------------------|-----------------------------------------------------------------------------|
+| **Property Listing View** | Shows a list of available properties with filters, sorting options, and key details like price and location. |
+| **Listing Detailed View** | Displays detailed information for a selected property, including photos, amenities, host information, and reviews. |
+| **Simple Checkout View**  | Provides a streamlined checkout process for booking a property, including date selection, payment details, and confirmation. |
+
+### Importance of User-Friendly Design
+A user-friendly design is crucial in a booking system because it improves usability, reduces errors, and increases customer satisfaction. Clear navigation, simple forms, and responsive layouts ensure that users can search, book, and manage reservations effortlessly, which leads to higher engagement and conversions.
+
 
 ## Database Design
 
