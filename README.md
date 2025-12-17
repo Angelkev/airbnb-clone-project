@@ -229,132 +229,18 @@ A user-friendly design is critical in a booking system because it directly impac
 
 An intuitive UI reduces cognitive load, minimizes booking errors, and improves overall satisfaction. In a competitive market like short-term rentals, a seamless and pleasant user experience can be a key differentiator that encourages repeat usage and positive reviews.
 
-
-## UI/UX Design Planning
-
-### Design Goals
-
-The UI/UX design for the **Airbnb Clone Project** focuses on delivering a clean, intuitive, and efficient booking experience. The primary goals are:
-
-* Provide a simple and visually appealing interface that is easy to navigate
-* Enable users to quickly find, review, and book properties
-* Reduce friction during the booking and checkout process
-* Ensure consistency across all pages and components
-* Support responsiveness across desktop and mobile devices
-
-### Key Features to be Implemented
-
-* Property search and filtering (location, price, dates, guests)
-* Clear and visually rich property listings
-* Detailed property information with images and amenities
-* Simple and secure checkout flow
-* Consistent navigation and call-to-action buttons
-* User feedback through loading states, confirmations, and error messages
-
-### Primary Pages Overview
-
-| Page Name                 | Description                                                                                                         | Key UI Elements                                                                     |
-| ------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
-| **Property Listing View** | Displays a collection of available properties based on search criteria. Users can browse multiple listings at once. | Property cards, images, price per night, location, ratings, filters, pagination     |
-| **Listing Detailed View** | Shows comprehensive details of a selected property to help users make booking decisions.                            | Image gallery, property description, amenities, host details, reviews, booking form |
-| **Simple Checkout View**  | Allows users to finalize their booking with minimal steps and clear cost breakdown.                                 | Booking summary, date selection, pricing breakdown, confirmation button             |
-
-### Importance of User-Friendly Design in a Booking System
-
-A user-friendly design is critical in a booking system because it directly impacts user trust, engagement, and conversion rates. When users can easily navigate listings, understand pricing, and complete bookings without confusion, they are more likely to finalize reservations.
-
-An intuitive UI reduces cognitive load, minimizes booking errors, and improves overall satisfaction. In a competitive market like short-term rentals, a seamless and pleasant user experience can be a key differentiator that encourages repeat usage and positive reviews.
-
 ## Project Roles and Responsibilities
 
-Clearly defined roles and responsibilities ensure effective collaboration, accountability, and smooth delivery of the Airbnb Clone Project. Each role contributes uniquely to the success of the product.
+Clearly defined roles and responsibilities ensure effective collaboration, accountability, and timely delivery of the Airbnb Clone Project.
 
-### Project Manager
-
-**Responsibilities:**
-
-* Plan, coordinate, and oversee the project timeline and milestones
-* Manage risks, resources, and communication among team members
-* Ensure the project is delivered on time and within scope
-
-**Contribution:**
-Provides leadership and coordination, ensuring the project stays aligned with goals and deadlines.
-
-### Product Owner
-
-**Responsibilities:**
-
-* Define product vision and requirements
-* Maintain and prioritize the product backlog
-* Act as the voice of stakeholders and users
-
-**Contribution:**
-Ensures the product delivers maximum value and meets user and business needs.
-
-### Scrum Master
-
-**Responsibilities:**
-
-* Facilitate Scrum ceremonies (stand-ups, sprint planning, reviews, retrospectives)
-* Remove impediments affecting the team
-* Promote Agile best practices
-
-**Contribution:**
-Improves team efficiency and ensures smooth Agile processes.
-
-### Frontend Developers
-
-**Responsibilities:**
-
-* Implement user interfaces based on UI/UX designs
-* Ensure responsiveness and cross-browser compatibility
-* Integrate frontend components with backend APIs
-
-**Contribution:**
-Deliver an intuitive and visually appealing user experience.
-
-### Backend Developers
-
-**Responsibilities:**
-
-* Design and implement server-side logic and APIs
-* Manage databases and data security
-* Ensure system performance and scalability
-
-**Contribution:**
-Provide reliable functionality and data handling that power the application.
-
-### Designers (UI/UX)
-
-**Responsibilities:**
-
-* Create wireframes, mockups, and design systems
-* Ensure usability, accessibility, and consistency
-* Collaborate with developers to implement designs accurately
-
-**Contribution:**
-Shape the overall user experience and ensure the product is user-friendly.
-
-### QA/Testers
-
-**Responsibilities:**
-
-* Test features for functionality, usability, and performance
-* Identify, document, and track bugs
-* Validate fixes and ensure quality standards are met
-
-**Contribution:**
-Maintain product quality and reduce defects before release.
-
-### DevOps Engineers
-
-**Responsibilities:**
-
-* Set up and maintain CI/CD pipelines
-* Manage deployment, infrastructure, and monitoring
-* Ensure system reliability and security
-
-**Contribution:**
-Enable smooth deployments, scalability, and operational stability.
-
+| Role | Key Responsibilities | Contribution to Project Success |
+|------|----------------------|----------------------------------|
+| **Project Manager** | Plans timelines, coordinates resources, manages risks, and ensures clear communication | Keeps the project on schedule and aligned with objectives |
+| **Product Owner** | Defines product vision, prioritizes the backlog, represents stakeholders and users | Ensures the product delivers maximum business and user value |
+| **Scrum Master** | Facilitates Scrum ceremonies, removes impediments, promotes Agile practices | Improves team efficiency and smooth Agile delivery |
+| **Frontend Developers** | Build user interfaces, ensure responsiveness, integrate backend APIs | Deliver a usable and visually appealing user experience |
+| **Backend Developers** | Develop APIs, manage databases, ensure security and scalability | Provide reliable system logic and data management |
+| **Designers (UI/UX)** | Create wireframes, mockups, and design systems; ensure usability | Shape intuitive and user-friendly product interactions |
+| **QA/Testers** | Test functionality, identify bugs, and validate fixes | Maintain product quality and reduce defects |
+| **DevOps Engineers** | Manage CI/CD pipelines, deployments, monitoring, and infrastructure | Ensure stable, secure, and scalable application operations |
 
