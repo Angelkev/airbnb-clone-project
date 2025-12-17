@@ -72,6 +72,7 @@ This project is an educational, full-stack clone of core Airbnb features. It foc
 - **Prettier & ESLint**: Code formatting and linting tools to maintain consistent code quality.
 - **GitHub Actions**: CI/CD tool to automate test
 
+
 ## UI/UX Design Planning
 
 ### Design Goals
