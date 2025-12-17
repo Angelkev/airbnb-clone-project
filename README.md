@@ -143,6 +143,7 @@ These components will be designed to be modular, reusable, and responsive to sup
   - `user_id`: Ref_
 
 
+
 ## Feature Breakdown
 
 - **User Management**  
@@ -192,3 +193,39 @@ Continuous Integration (CI) and Continuous Deployment (CD) are practices that au
 - **GitHub Actions:** Automates workflows for testing, building, and deploying the application.  
 - **Docker & Docker Compose:** Containerizes the application for consistent deployment in any environment.  
 - **Optional CI/CD Tools:** Tools like Jenkins or GitLab CI could also be used for larger workflows.
+
+## UI/UX Design Planning
+
+### Design Goals
+
+The UI/UX design for the **Airbnb Clone Project** focuses on delivering a clean, intuitive, and efficient booking experience. The primary goals are:
+
+* Provide a simple and visually appealing interface that is easy to navigate
+* Enable users to quickly find, review, and book properties
+* Reduce friction during the booking and checkout process
+* Ensure consistency across all pages and components
+* Support responsiveness across desktop and mobile devices
+
+### Key Features to be Implemented
+
+* Property search and filtering (location, price, dates, guests)
+* Clear and visually rich property listings
+* Detailed property information with images and amenities
+* Simple and secure checkout flow
+* Consistent navigation and call-to-action buttons
+* User feedback through loading states, confirmations, and error messages
+
+### Primary Pages Overview
+
+| Page Name                 | Description                                                                                                         | Key UI Elements                                                                     |
+| ------------------------- | ------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------- |
+| **Property Listing View** | Displays a collection of available properties based on search criteria. Users can browse multiple listings at once. | Property cards, images, price per night, location, ratings, filters, pagination     |
+| **Listing Detailed View** | Shows comprehensive details of a selected property to help users make booking decisions.                            | Image gallery, property description, amenities, host details, reviews, booking form |
+| **Simple Checkout View**  | Allows users to finalize their booking with minimal steps and clear cost breakdown.                                 | Booking summary, date selection, pricing breakdown, confirmation button             |
+
+### Importance of User-Friendly Design in a Booking System
+
+A user-friendly design is critical in a booking system because it directly impacts user trust, engagement, and conversion rates. When users can easily navigate listings, understand pricing, and complete bookings without confusion, they are more likely to finalize reservations.
+
+An intuitive UI reduces cognitive load, minimizes booking errors, and improves overall satisfaction. In a competitive market like short-term rentals, a seamless and pleasant user experience can be a key differentiator that encourages repeat usage and positive reviews.
+
