@@ -244,3 +244,17 @@ Clearly defined roles and responsibilities ensure effective collaboration, accou
 | **QA/Testers** | Test functionality, identify bugs, and validate fixes | Maintain product quality and reduce defects |
 | **DevOps Engineers** | Manage CI/CD pipelines, deployments, monitoring, and infrastructure | Ensure stable, secure, and scalable application operations |
 
+
+## UI Component Patterns
+
+The Airbnb Clone project will be built using reusable UI components to ensure consistency, scalability, and easier maintenance across the application.
+
+### Navbar
+The Navbar component will provide primary navigation across the platform. It will include links to key pages, branding, and user actions such as login or profile access. This component ensures consistent navigation on all pages.
+
+### Property Card
+The Property Card component will be used to display individual property listings in a concise and visually appealing format. It will include property images, title, location, price per night, and ratings, allowing users to quickly browse available options.
+
+### Footer
+The Footer component will appear at the bottom of all pages and contain supplementary information such as links to policies, contact details, and additional navigation. It helps improve usability and provides closure to each page.
+
